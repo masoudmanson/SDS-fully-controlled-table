@@ -18,7 +18,7 @@
     "@mui/lab": "5.0.0-alpha.98",
     "@mui/material": "5.10.4",
     "@tanstack/react-table": "8.5.13",
-    "czifui": "7.15.0",
+    "czifui": "7.16.0",
     "faker": "^6.6.6",
     "react": "17.0.1",
     "react-dom": "17.0.1"

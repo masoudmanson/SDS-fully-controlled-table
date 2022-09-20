@@ -378,6 +378,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.8.tgz#d64575fc46bf4eb689352aa9f8a139271b6e1647"
   integrity sha512-pE5RQsOTSERCtfZdfCT25wzo7dfhOSlhAXcsZmuvRYhendOv7djcdvtINdnDp2DAjP17WXlBB4nBO6sHLczmsg==
 
+"@faker-js/faker@^6.3.1":
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.3.1.tgz#1ae963dd40405450a2945408cba553e1afa3e0fb"
+  integrity sha512-8YXBE2ZcU/pImVOHX7MWrSR/X5up7t6rPWZlk34RwZEcdr3ua6X+32pSd6XuOQRN+vbuvYNfA6iey8NbrjuMFQ==
+
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -699,10 +704,10 @@ csstype@^3.0.2, csstype@^3.1.0:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
-czifui@7.11.0:
-  version "7.11.0"
-  resolved "https://registry.yarnpkg.com/czifui/-/czifui-7.11.0.tgz#de3f1d0ea3e94398c3f47b2bfb7a4e05d0ca2e0c"
-  integrity sha512-Mjw4KlzN8tdtlCJaopjXKFz0LbeMsSSxf4qg5EP07Ovt7tgeUkVSQF1Hgn/mgbs4aJTb0jdEyaaBEWOEXafftg==
+czifui@7.16.0:
+  version "7.16.0"
+  resolved "https://registry.yarnpkg.com/czifui/-/czifui-7.16.0.tgz#38aa9ec2749add0b29f532a2aaa616d5587b5a66"
+  integrity sha512-mnfeZkxrVa5/WFucItv0NLntrmDd8+pYJwC9z1aj0i6FB27F2MVyV7+GJXVz3zGWz7dyjW8AFKf/6dCJIIJGPQ==
 
 debug@^4.1.0:
   version "4.3.4"
@@ -885,6 +890,11 @@ estree-walker@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/estree-walker/-/estree-walker-1.0.1.tgz#31bc5d612c96b704106b477e6dd5d8aa138cb700"
   integrity sha512-1fMXF3YP4pZZVozF8j/ZLfvnR8NSIljt56UhbZ5PeeDmmGHpgpdwQt7ITlGvYaQukCvuBRMLEiKiYC+oeIg4cg==
+
+faker@^6.6.6:
+  version "6.6.6"
+  resolved "https://registry.yarnpkg.com/faker/-/faker-6.6.6.tgz#e9529da0109dca4c7c5dbfeaadbd9234af943033"
+  integrity sha512-9tCqYEDHI5RYFQigXFwF1hnCwcWCOJl/hmll0lr5D2Ljjb0o4wphb69wikeJDz5qCEzXCoPvG6ss5SDP6IfOdg==
 
 find-root@^1.1.0:
   version "1.1.0"
