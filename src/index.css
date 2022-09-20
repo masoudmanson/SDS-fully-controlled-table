@@ -14,3 +14,28 @@ p.description {
   margin-bottom: 20px;
   color: rgb(76, 76, 94);
 }
+
+.actions {
+  margin: 20px 0;
+}
+
+.log {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border: solid 1px #ddd;
+  color: #222;
+}
+
+.log pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 11px;
+  word-break: break-word;
+  margin-top: 10px;
+}
+
+.editable-input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
