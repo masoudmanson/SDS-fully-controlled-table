@@ -156,7 +156,7 @@ function App() {
       <p className="description">
         Table that demonstrates how to access the table’s internal data
         management state. Table Cells are <strong>Editable</strong>, click on a
-        cell to strat editing (Changes will apply on blur!)
+        cell to start editing (Changes will apply on blur!)
       </p>
       <Table>
         <TableHeader>
