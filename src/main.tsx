@@ -119,7 +119,6 @@ function App() {
             if (index === rowIndex) {
               setLog(`Row index: ${rowIndex}\nColumn Id: ${columnId}\nOld value: ${old[rowIndex][columnId]}\nNew value: ${value}
               `);
-              console.log(old[rowIndex]);
               return {
                 ...old[rowIndex]!,
                 [columnId]: value,
